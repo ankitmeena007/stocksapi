@@ -15,6 +15,6 @@ This is usually when fetch limit per minute is exceeded </p>
 
 <br>
 <p>The Stocks Data gets updated every 5 seconds subjected to the free api limit</p>
-<br>
-#Hosting
+
+# Hosting
 <p>Host locally at localhost:8000 or through a PaaS after deploying online
