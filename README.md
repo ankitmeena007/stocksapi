@@ -17,4 +17,5 @@ This is usually when fetch limit per minute is exceeded </p>
 <p>The Stocks Data gets updated every 5 seconds subjected to the free api limit</p>
 
 # Hosting
-<p>Host locally at localhost:8000 or through a PaaS after deploying online
+<p>Host locally at localhost:8000 or through a PaaS after deploying online</p>
+ <p> use nodemon or node to start server by running app.js</p>
